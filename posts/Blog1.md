@@ -4,9 +4,9 @@ date: 2026-04-25
 author: Junqi Wu juwu0222
 summary: Blog 1
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - discovery
+  - wireframes
+  - UX
 ---
 
 ## Initial Concept
@@ -44,16 +44,16 @@ Then when we were making the wireframes, we split the work. I was responsible fo
 
 I started by drawing the Messages page. First I drew a message list view: the left side is the navigation bar, and the right side shows all recent conversations. Each conversation card includes the seller’s avatar, the seller’s display name, and a message preview. On the far right, it shows the message time and the number of unread messages; if everything is read, it only shows the time.
 
-![Message page 1](../assets/images/Message-page-1.png)
+![Message page 1](/Deco2017_Blog/assets/images/Message-page-1.png)
 
 ### Messages Page — Chat View
 
 The second Messages screen appears after you tap into a seller’s conversation. At the top there is the item information and the item image. Below that is the chat content, including read/unread status. Under the chat, I added quick replies and a message input field.
 
-![Message page 2](../assets/images/Message-page-2.png)
+![Message page 2](/Deco2017_Blog/assets/images/Message-page-2.png)
 
 ### Profile Page
 
 Finally, I drew the Profile page. The first thing you see is the user’s own avatar and display name. Below that are tabs for My Listings / Favourites / My Messages / Notifications. By default it shows My Listings, where you can see the user’s posted item image, item name, and price. On the right side, the user can edit their listings to easily mark an item as sold or remove it from the listing.
 
-![Profile](../assets/images/Profile.png)
+![Profile](/Deco2017_Blog/assets/images/Profile.png)
